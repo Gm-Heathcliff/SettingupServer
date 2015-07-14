@@ -18,8 +18,10 @@ Programms:
 Diff Tool for your Exe:
 https://github.com/MStr3am/NEMO
 
-LuatoLub:external ( used for your translation files) Chunkspy(needed)
 LubtoLua:external ( used for your translation files)
+LubtoLua:external ( used for your translation files)
+http://chunkspy.luaforge.net/
+http://www.mediafire.com/download/jvtac0j8f6m604v/luatolub.bat
 
 mySql:
 http://www.chip.de/downloads/MySQL_13000125.html (just google)
