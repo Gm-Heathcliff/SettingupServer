@@ -14,6 +14,8 @@ https://github.com/ROClientSide/Translation
 
 Cloth and Hair Palette :
 
+http://code.google.com/p/aerie-pinkpanther/downloads/detail?name=Ultimate%20Basic%20Grf%20%28v1.2%29.7z&can=2&q=
+
 https://rathena.org/board/files/file/2701-553251-old-dyes-palettes-working-all-classes/
 
 Programms:
